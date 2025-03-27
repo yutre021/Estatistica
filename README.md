@@ -10,7 +10,7 @@ Aqui vou colocar conteúdo resumidos de livros e aprendizado de estatística par
 - População : Contém todos os indivíduos onde apresentam uma ou mais características em comum.
 - Amostra: Representativo do grupo da população 
 - Censo: Estudos dos dados de elementos da população
-- Variável: Obter algum tipo de conclusão
+- Variável: Característica da população/amostra em estudo. Obter algum tipo de conclusão
 - Dados: matéria prima
 - Parâmetros:  Medidas estatísticas numéricas na qual precisam ser estimadas
 
