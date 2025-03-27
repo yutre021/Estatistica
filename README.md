@@ -8,7 +8,7 @@ Aqui vou colocar conteúdo resumidos de livros e aprendizado de estatística par
 <img src="assets/ciclo_de_dados.jpg" alt="Texto alternativo" width="2000">
 
 - População : Contém todos os indivíduos onde apresentam uma ou mais características em comum.
-- Amostra: Representativo do grupo da população \
+- Amostra: Representativo do grupo da população 
 - Censo: Estudos dos dados de elementos da população
 - Variável: Obter algum tipo de conclusão
 - Dados: matéria prima
