@@ -5,6 +5,6 @@ Aqui vou colocar conteúdo resumidos de livros e aprendizado de estatística par
 - [PT Language](https://pt.wikipedia.org/wiki/Teoria_das_probabilidades)
 
  Ciclo de Dados pelo Livro - Manual de Análise de Dados
-<img src="assets/ciclo_de_dados.png" alt="Texto alternativo" width="2000">
+<img src="assets/ciclo_de_dados.jpg" alt="Texto alternativo" width="2000">
 
  
